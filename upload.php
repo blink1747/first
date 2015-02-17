@@ -1,3 +1,3 @@
 <?php
-echo "K chha Mesus latest";
+echo "K chha Mesus LATEST";
 ?>
